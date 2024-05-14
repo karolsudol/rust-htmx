@@ -22,7 +22,7 @@ build-tailwind:
 
 db-migrate:
   echo "Migrating ..."
-  sqlx migrate run --source $MIGRATIONS_PATH;
+  sqlx migrate run --source $MIGRATIONS_PATH
 
 db-reset:
   echo "Resetting ..."
