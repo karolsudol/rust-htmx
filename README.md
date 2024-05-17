@@ -1,1 +1,1 @@
-# mireuza
+# rust-htmx
